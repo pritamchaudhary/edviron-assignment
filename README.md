@@ -41,7 +41,7 @@ This is a full-stack MERN (MongoDB, Express, React, Node.js) application designe
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repo-url>
+    git clone https://github.com/pritamchaudhary/edviron-assignment.git
     cd <your-repo-folder>/backend
     ```
 
